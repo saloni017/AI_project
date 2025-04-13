@@ -1,0 +1,73 @@
+what is geeksforgeeks::GeeksforGeeks is a computer science portal providing tutorials, articles, and coding practice for computer science topics.
+
+who founded geeksforgeeks::GeeksforGeeks was founded by Sandeep Jain, an alumnus of IIT Roorkee.
+
+hello::I am your gfg bot, how can I help you!.
+
+what topics does geeksforgeeks cover::GFG covers Data Structures, Algorithms, Programming Languages, Web Development, Machine Learning, and more.
+
+is geeksforgeeks free to use::Yes, most content on GFG is free, but there are also paid courses and subscriptions available.
+
+what is gfg dsa self paced course::It is a paid course that teaches data structures and algorithms in a structured and beginner-friendly way.
+
+how can i start learning dsa on geeksforgeeks::You can start with their DSA Self-Paced course or the free tutorials on arrays, strings, linked lists, etc.
+
+does geeksforgeeks have coding problems::Yes, GFG has a practice section with coding problems of various difficulties.
+
+does gfg provide competitive programming content::Yes, it has a competitive programming section with problems, contests, and guides.
+
+what languages are used on geeksforgeeks::GFG provides code in languages like C++, Java, Python, and C.
+
+can i track my progress on geeksforgeeks::Yes, if you have a free or paid account, you can track your practice and course progress.
+
+does geeksforgeeks offer certification::Yes, many GFG courses offer certificates upon completion.
+
+can i ask doubts on geeksforgeeks::Yes, GFG has a doubt resolution feature on paid courses and a community discussion section.
+
+does gfg have interview preparation content::Yes, GFG offers interview questions, placement preparation, and company-wise coding questions.
+
+is there a gfg android app::Yes, GeeksforGeeks has an official Android app available on the Play Store.
+
+can i contribute articles to gfg::Yes, GFG allows users to contribute articles and improve existing ones.
+
+does geeksforgeeks have youtube channel::Yes, GFG runs a popular YouTube channel with tutorials, tips, and live sessions.
+
+can i prepare for gate on gfg::Yes, GFG has a dedicated GATE preparation section and courses.
+
+is gfg good for beginners::Yes, GFG is beginner-friendly with step-by-step explanations and code examples.
+
+what is geeks classes::Geeks Classes is GFG's online and offline course platform for structured learning.
+
+what are gfg job-a-thons::Job-a-thons are online hiring challenges hosted by GFG in collaboration with tech companies.
+
+how to apply for internships through geeksforgeeks::GFG has a 'Jobs' section where you can find internships and apply directly.
+
+what are company-specific questions on gfg::These are collections of previously asked questions from companies like Amazon, Google, Microsoft, etc.
+
+is gfg better than leetcode::GFG is great for learning and understanding; LeetCode is more focused on coding practice and contests.
+
+can gfg help with system design::Yes, GFG has a section for system design concepts and interview questions.
+
+what is geeks premier::Geeks Premier is a subscription model giving access to premium content and exclusive features.
+
+how to register on geeksforgeeks::Visit the site and click on the sign-up button using email or social login.
+
+does gfg offer data science courses::Yes, GFG offers data science and machine learning courses.
+
+can i find placement preparation roadmap on gfg::Yes, GFG has dedicated articles and playlists for placement preparation.
+
+does geeksforgeeks offer free webinars::Yes, GFG regularly conducts free and paid webinars with experts.
+
+can i download geeksforgeeks tutorials::You cannot directly download articles, but courses may allow offline access via the app.
+
+how frequently does gfg update content::GFG updates content regularly with new problems, tutorials, and company experiences.
+
+what is geeksforgeeks practice portal::It's the coding practice platform where users can solve problems and participate in challenges.
+
+can i learn web development from gfg::Yes, GFG offers tutorials and full courses on HTML, CSS, JavaScript, and frameworks.
+
+does gfg have cpp tutorials::Yes, GFG provides comprehensive tutorials on C++ for beginners and professionals.
+
+can i trust geeksforgeeks content::Yes, GFG is widely trusted by students and professionals, though it's good to cross-check for deep topics.
+
+how to access geeksforgeeks courses::Visit [practice.geeksforgeeks.org] or [courses.geeksforgeeks.org] and enroll with your account.

@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h2 class="section-title">Tutorials</h2>
+<div class="tutorials-grid">
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='html.png') }}" alt="HTML Logo">
+        <h3>Intro to Web Dev</h3>
+        <p>Learn HTML basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='c.png') }}" alt="C Logo">
+        <h3>Intro to C</h3>
+        <p>Learn C basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='java.png') }}" alt="Java Logo">
+        <h3>Intro to Java</h3>
+        <p>Learn Java basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='python.png') }}" alt="Python Logo">
+        <h3>Intro to Python</h3>
+        <p>Learn Python basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='css.png') }}" alt="CSS Logo">
+        <h3>Intro to CSS</h3>
+        <p>Learn CSS basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+    <div class="tutorial-card">
+        <img src="{{ url_for('static', filename='js.png') }}" alt="JS Logo">
+        <h3>Intro to JavaScript</h3>
+        <p>Learn JavaScript basics.</p>
+        <a href="#" class="download-btn">Download</a>
+    </div>
+
+</div>
+
+{% endblock %}

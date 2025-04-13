@@ -1,0 +1,172 @@
+/* Position chatbot icon at bottom-right */
+#chatbot-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    z-index: 1000;
+}
+
+/* Chat popup container */
+.chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 90px; /* appears above the icon */
+    right: 20px;
+    width: 300px;
+    background-color: #1f1f1f;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #00ffcc;
+    z-index: 999;
+    overflow: hidden;
+}
+
+/* Chat messages box */
+.chat-box {
+    height: 250px;
+    padding: 10px;
+    overflow-y: auto;
+    color: white;
+}
+
+/* Input section */
+.input-container {
+    display: flex;
+    border-top: 1px solid #333;
+}
+
+.input-container input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background: #2e2e2e;
+    color: white;
+}
+
+.input-container button {
+    background: #00cc99;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    color: #1f1f1f;
+}
+
+header {
+    background: #2f8d46;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    margin: 0;
+}
+
+.nav-links a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e4f7ea;
+    padding: 30px;
+}
+
+.search-box input {
+    padding: 10px;
+    width: 200px;
+}
+
+.search-box button {
+    padding: 10px;
+    background-color: #2f8d46;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.promos {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.promo-card {
+    background-color: #d9f7e2;
+    padding: 20px;
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+.section-title {
+    font-size: 1.5em;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.popular-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin: 20px;
+    padding: 0 20px;
+}
+
+.card {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.tutorials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    background-color: #a9b9c7;
+}
+
+.tutorial-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.tutorial-card img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    margin-bottom: 10px;
+}
+
+.download-btn {
+    display: inline-block;
+    padding: 8px 16px;
+    margin-top: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
